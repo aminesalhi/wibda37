@@ -39,7 +39,7 @@ a{text-decoration: none;}
        url(//fonts.gstatic.com/ea/droidarabickufi/v6/DroidKufi-Bold.ttf) format('truetype');
 }
 #login-forum{
-	background:url(images/login-td.png);
+	background:url(http://a7la.pe.hu/Malek-blue-style-2015/images/login-td.png);
 	height: 53px;
 	position: relative;
 }
@@ -48,7 +48,7 @@ a{text-decoration: none;}
 	float: right;
 }
 #login{
-	background:url(images/login-forum.png);
+	background:url(http://a7la.pe.hu/Malek-blue-style-2015/images/login-forum.png);
 	width: 532px;
 	height: 53px;
 	float: right;
@@ -78,7 +78,7 @@ a{text-decoration: none;}
   font-family: 'Droid Arabic Kufi';
 }
 .buttonsub{
-	background:url(images/bottun.png);
+	background:url(http://a7la.pe.hu/Malek-blue-style-2015/images/bottun.png);
 	width: 73px;
 	height: 33px;
 	border: none;
@@ -112,7 +112,7 @@ position: relative;
 #login2 ul.login_details li a:hover, #login2 ul.login_details li a:active{color:#eea728 !important;}
 #login2 ul.login_details li span { text-align:right;  color: #DFDFDF; }
 #login2 ul.login_details li.username {float:right; font-size:14px; font-weight:bold; padding:0 4px; white-space:pre;}
-#login2 ul.login_details li.username .avatarlogin { background:url('images/avatarlogin.png') no-repeat center; float:right; width: 35px; height: 35px; border-radius: 5px; border: 2px solid #BBBBBB;; margin-left:7px; margin-right:2px; margin-top:1px; margin-bottom:0}
+#login2 ul.login_details li.username .avatarlogin { background:url('http://a7la.pe.hu/Malek-blue-style-2015/images/avatarlogin.png') no-repeat center; float:right; width: 35px; height: 35px; border-radius: 5px; border: 2px solid #BBBBBB;; margin-left:7px; margin-right:2px; margin-top:1px; margin-bottom:0}
 #login2 ul.login_details li.username .avatarlogin header {width:25px; height:25px;}
 #login2 ul.login_details li.settings { }
 #login2 ul.login_details li.settings .set-icon { float:right; width:16px; height:16px; background-position:-41px -59px; margin:12px 0 0 5px;}
@@ -138,7 +138,7 @@ position: relative;
 #login2 ul.login_details li.signout .signout-icon { float:right; width:18px; height:18px; background-position:-60px -21px; margin:12px 0 0 3px; -webkit-transition-duration: 0.3s, 0.3s;    -webkit-transition-timing-function: ease-in-out, ease;    -moz-transition-duration: 0.3s, 0.3s;    -moz-transition-timing-function: ease-in-out, ease;    -ms-transition-duration: 0.3s, 0.3s;    -ms-transition-timing-function: ease-in-out, ease;    -o-transition-duration: 0.3s, 0.3s;    -o-transition-timing-function: ease-in-out, ease;    transition-duration: 0.3s, 0.3s;    transition-timing-function: ease-in-out, ease;}
 #login2 ul.login_details li.signout .signout-icon:hover { float:right; width:18px; height:18px; background-position:-60px -40px; margin:12px 0 0 3px;}
  
-.fullimg { background-image:url('images/allimages.png'); background-repeat:no-repeat; background-position: left top; background-attachment:scroll}
+.fullimg { background-image:url('http://a7la.pe.hu/Malek-blue-style-2015/images/allhttp://a7la.pe.hu/Malek-blue-style-2015/images.png'); background-repeat:no-repeat; background-position: left top; background-attachment:scroll}
 
 .socail-media{
 	float: left;
@@ -146,7 +146,7 @@ position: relative;
 	margin-top: 3px;
 }
 .facebook{
-	background:url(images/facebook.png);
+	background:url(http://a7la.pe.hu/Malek-blue-style-2015/images/facebook.png);
 	width: 39px;
 	height: 39px;
 	float: right;
@@ -169,7 +169,7 @@ position: relative;
 	-webkit-transform:rotate(360deg);
 }
 .twitter{
-	background:url(images/twitter.png);
+	background:url(http://a7la.pe.hu/Malek-blue-style-2015/images/twitter.png);
 	width: 39px;
 	height: 39px;
 	float: right;
@@ -192,7 +192,7 @@ position: relative;
 	-webkit-transform:rotate(360deg);
 }
 .mail{
-	background:url(images/mail.png);
+	background:url(http://a7la.pe.hu/Malek-blue-style-2015/images/mail.png);
 	width: 39px;
 	height: 39px;
 	float: right;
@@ -215,7 +215,7 @@ position: relative;
 	-webkit-transform:rotate(360deg);
 }
 .google{
-	background:url(images/google+.png);
+	background:url(http://a7la.pe.hu/Malek-blue-style-2015/images/google+.png);
 	width: 39px;
 	height: 39px;
 	float: right;
@@ -238,7 +238,7 @@ position: relative;
 	-webkit-transform:rotate(360deg);
 }
 .youtube{
-	background:url(images/youtube.png);
+	background:url(http://a7la.pe.hu/Malek-blue-style-2015/images/youtube.png);
 	width: 39px;
 	height: 39px;
 	float: right;
@@ -261,7 +261,7 @@ position: relative;
 	-webkit-transform:rotate(360deg);
 }
 .rss{
-	background:url(images/rss.png);
+	background:url(http://a7la.pe.hu/Malek-blue-style-2015/images/rss.png);
 	width: 39px;
 	height: 39px;
 	float: right;
@@ -290,17 +290,17 @@ position: relative;
 	display:block
 }
 .main-header{
-	background:url(images/logo-td.png) repeat-x;
+	background:url(http://a7la.pe.hu/Malek-blue-style-2015/images/logo-td.png) repeat-x;
 	height: 157px;
 }
 .logo{
-	background:url(images/logo.png) no-repeat;
+	background:url(http://a7la.pe.hu/Malek-blue-style-2015/images/logo.png) no-repeat;
 	height: 157px;
 	width: 336px;
 	float: right;
 }
 .main-banner{
-	background:url(images/left-header.png) no-repeat;
+	background:url(http://a7la.pe.hu/Malek-blue-style-2015/images/left-header.png) no-repeat;
 	width: 390px;
 	height: 157px;
 	position: relative;
@@ -380,17 +380,17 @@ position: relative;
 	width: 109px;
 }
 .main-bottun-td{
-	background:url(images/bt-td.png) repeat-x;
+	background:url(http://a7la.pe.hu/Malek-blue-style-2015/images/bt-td.png) repeat-x;
 	height: 67px;
 }
 .main-bottun-right{
-	background:url(images/bt-right.png);
+	background:url(http://a7la.pe.hu/Malek-blue-style-2015/images/bt-right.png);
 	width: 32px;
 	height: 67px;
 	float: right;
 }
 .main-bottun-left{
-	background: url(images/bt-left.png);
+	background: url(http://a7la.pe.hu/Malek-blue-style-2015/images/bt-left.png);
 	width: 34px;
 	height: 67px;
 	float: left;
@@ -404,7 +404,7 @@ position: relative;
 	right: 40px;
 }
 .main-bt-1{
-	background:url(images/bt-1.png) no-repeat;
+	background:url(http://a7la.pe.hu/Malek-blue-style-2015/images/bt-1.png) no-repeat;
 	width: 134px;
 	height: 48px;
 	background-position: 0px -48px;
@@ -414,7 +414,7 @@ position: relative;
 		background-position: 0px 0px;
 }
 .main-bt-2{
-	background:url(images/bt-2.png) no-repeat;
+	background:url(http://a7la.pe.hu/Malek-blue-style-2015/images/bt-2.png) no-repeat;
 	width: 134px;
 	height: 48px;
 	float:right;
@@ -424,7 +424,7 @@ position: relative;
 	background-position: 0px -48px;
 }
 .main-bt-3{
-	background:url(images/bt-3.png) no-repeat;
+	background:url(http://a7la.pe.hu/Malek-blue-style-2015/images/bt-3.png) no-repeat;
 	width: 134px;
 	height: 48px;
 	float:right;
@@ -434,7 +434,7 @@ position: relative;
 	background-position: 0px -48px;
 }
 .main-bt-3{
-	background:url(images/bt-3.png) no-repeat;
+	background:url(http://a7la.pe.hu/Malek-blue-style-2015/images/bt-3.png) no-repeat;
 	width: 134px;
 	height: 48px;
 	float:right;
@@ -444,7 +444,7 @@ position: relative;
 	background-position: 0px -48px;
 }
 .main-bt-4{
-	background:url(images/bt-4.png) no-repeat;
+	background:url(http://a7la.pe.hu/Malek-blue-style-2015/images/bt-4.png) no-repeat;
 	width: 134px;
 	height: 48px;
 	float:right;
@@ -454,7 +454,7 @@ position: relative;
 	background-position: 0px -48px;
 }
 .main-bt-5{
-	background:url(images/bt-5.png) no-repeat;
+	background:url(http://a7la.pe.hu/Malek-blue-style-2015/images/bt-5.png) no-repeat;
 	width: 134px;
 	height: 48px;
 	float:right;
@@ -464,7 +464,7 @@ position: relative;
 	background-position: 0px -48px;
 }
 .main-bt-6{
-	background:url(images/bt-6.png) no-repeat;
+	background:url(http://a7la.pe.hu/Malek-blue-style-2015/images/bt-6.png) no-repeat;
 	width: 134px;
 	height: 48px;
 	float:left;
@@ -482,7 +482,7 @@ position: relative;
 	display:block;
 }
 .last-search{
-	background:url(images/new-td.png) repeat-x;
+	background:url(http://a7la.pe.hu/Malek-blue-style-2015/images/new-td.png) repeat-x;
 	height: 75px;
 }
 .last-10{
@@ -494,19 +494,19 @@ position: relative;
 	height: 75px;
 }
 .last-right{
-	background:url(images/new-right.png) no-repeat;
+	background:url(http://a7la.pe.hu/Malek-blue-style-2015/images/new-right.png) no-repeat;
 	width: 149px;
 	height: 75px;
 	float: right;
 }
 .last-left{
-	background:url(images/new-left.png) no-repeat;
+	background:url(http://a7la.pe.hu/Malek-blue-style-2015/images/new-left.png) no-repeat;
 	height: 75px;
 	width: 11px;
 	float: left;
 }
 .main-search{
-	background:url(images/last-header-search.png) no-repeat;
+	background:url(http://a7la.pe.hu/Malek-blue-style-2015/images/last-header-search.png) no-repeat;
 	width: 329px;
 	height: 75px;
 	float: left;
@@ -528,7 +528,7 @@ position: relative;
   text-shadow: 0px 1px #134C59;
 }
 .search_button{
-	background:url(images/search-button.png) no-repeat;
+	background:url(http://a7la.pe.hu/Malek-blue-style-2015/images/search-button.png) no-repeat;
 	height: 23px;
 	width: 23px;
 	border: none;
@@ -569,17 +569,17 @@ marquee.smallfont a:hover{
 }
 
 .main-nabar{
-	background:url(images/navbar-td.png) repeat-x;
+	background:url(http://a7la.pe.hu/Malek-blue-style-2015/images/navbar-td.png) repeat-x;
 	height: 39px;
 }
 .main-nabar-right{
-	background:url(images/navbar-right.png) no-repeat;
+	background:url(http://a7la.pe.hu/Malek-blue-style-2015/images/navbar-right.png) no-repeat;
 	width: 46px;
 	height: 39px;
 	float:right;
 }
 .main-nabar-left{
-	background:url(images/navbar-left.png) no-repeat;
+	background:url(http://a7la.pe.hu/Malek-blue-style-2015/images/navbar-left.png) no-repeat;
 	width: 42px;
 	height: 39px;
 	float: left;
@@ -600,25 +600,25 @@ marquee.smallfont a:hover{
 	background:#f5f5f5
 }
 .body-right{
-	background: url(images/body-right.png) repeat-y right;
+	background: url(http://a7la.pe.hu/Malek-blue-style-2015/images/body-right.png) repeat-y right;
 	padding-right: 51px;
 }
-.body-left{background:url(images/body-left.png) repeat-y left;
+.body-left{background:url(http://a7la.pe.hu/Malek-blue-style-2015/images/body-left.png) repeat-y left;
 padding-left: 51px;
 }
 
 .end-body-td{
-	background:url(images/body-end-td.png) repeat-x;
+	background:url(http://a7la.pe.hu/Malek-blue-style-2015/images/body-end-td.png) repeat-x;
 	height: 66px;
 }
 .end-body-right{
-	background:url(images/body-end-right.png) no-repeat;
+	background:url(http://a7la.pe.hu/Malek-blue-style-2015/images/body-end-right.png) no-repeat;
 	width: 51px;
 	height:66px;
 	float: right;
 }
 .end-body-left{
-	background:url(images/body-end-left.png) no-repeat;
+	background:url(http://a7la.pe.hu/Malek-blue-style-2015/images/body-end-left.png) no-repeat;
 	width: 42px;
 	height: 66px;
 	float: left;
@@ -666,13 +666,13 @@ padding-left: 51px;
 	height: 38px;
 }
 .btn-footer-right{
-	background:url(images/botn-footer-right.png) no-repeat;
+	background:url(http://a7la.pe.hu/Malek-blue-style-2015/images/botn-footer-right.png) no-repeat;
 	width: 51px;
 	height: 38px;
 	float:right;
 }
 .btn-footer-left{
-	background:url(images/btn-footer-left.png) no-repeat;
+	background:url(http://a7la.pe.hu/Malek-blue-style-2015/images/btn-footer-left.png) no-repeat;
 	width: 42px;
 	height: 38px;
 	float:left;
@@ -774,17 +774,17 @@ padding-left: 51px;
 	margin: 0px auto;
 }
 .main-footer-td{
-	background: url(images/footer-td.png) repeat-x;
+	background: url(http://a7la.pe.hu/Malek-blue-style-2015/images/footer-td.png) repeat-x;
 	height: 177px;
 }
 .main-footer-right{
-	background:url(images/footer-right.png) no-repeat;
+	background:url(http://a7la.pe.hu/Malek-blue-style-2015/images/footer-right.png) no-repeat;
 	width: 51px;
 	height: 177px;
 	float: right;
 }
 .main-footer-left{
-	background:url(images/footer-left.png) no-repeat;
+	background:url(http://a7la.pe.hu/Malek-blue-style-2015/images/footer-left.png) no-repeat;
 	width: 306px;
 	height: 177px;
 	float: left;
@@ -814,14 +814,14 @@ color: #E4E4E4;
 	float: right;
 }
 .fotr-link-img{
-	background:url(images/footer-far3y-bg.png) no-repeat;
+	background:url(http://a7la.pe.hu/Malek-blue-style-2015/images/footer-far3y-bg.png) no-repeat;
 	width: 232px;
 	height: 51px;
 	float: right;
 }
 .fot-ul{float: right;width: 100%;}
 .fot-ul ul li {
-	list-style-image: url(images/ul-footer-img.png);
+	list-style-image: url(http://a7la.pe.hu/Malek-blue-style-2015/images/ul-footer-img.png);
 	list-style-position:inside;
 	padding:0 22px 0 0;
 	color:#ffffff;
@@ -838,17 +838,17 @@ color: #E4E4E4;
 	padding-right:2px;
 }
 .malek-designer{
-	background:url(images/desgin-td.png) repeat-x;
+	background:url(http://a7la.pe.hu/Malek-blue-style-2015/images/desgin-td.png) repeat-x;
 	height: 35px;
 }
 .m-right{
-	background:url(images/desgin-right.png) no-repeat;
+	background:url(http://a7la.pe.hu/Malek-blue-style-2015/images/desgin-right.png) no-repeat;
 	width: 46px;
 	height: 35px;
 	float: right;
 }
 .m-left{
-	background:url(images/desgin-left.png) no-repeat;
+	background:url(http://a7la.pe.hu/Malek-blue-style-2015/images/desgin-left.png) no-repeat;
 	width: 46px;
 	height: 35px;
 	float: left;
@@ -872,50 +872,50 @@ a.malek {
 }
 
 .top-nav-td{
-	background:url(images/formhome-top-td.png) repeat-x;
+	background:url(http://a7la.pe.hu/Malek-blue-style-2015/images/formhome-top-td.png) repeat-x;
 	height: 90px;
 }
 .top-nav-right{
-	background:url(images/formhome--top-right.png) no-repeat;
+	background:url(http://a7la.pe.hu/Malek-blue-style-2015/images/formhome--top-right.png) no-repeat;
 	height: 90px;
 	width: 66px;
 	float: right;
 }
 .top-nav-left{
-	background:url(images/formhome-top-left.png) no-repeat;
+	background:url(http://a7la.pe.hu/Malek-blue-style-2015/images/formhome-top-left.png) no-repeat;
 	height: 90px;
 	width: 64px;
 	float: left;
 }
 .top-nav-title{
-	background:url(images/blue-style2015_57.png) no-repeat;
+	background:url(http://a7la.pe.hu/Malek-blue-style-2015/images/blue-style2015_57.png) no-repeat;
 	width: 393px;
 	height: 90px;
 	margin: 0px auto;
 	text-align: center;
 }
 .nav-right{
-	background:url(images/formhome-right.png) repeat-y right;
+	background:url(http://a7la.pe.hu/Malek-blue-style-2015/images/formhome-right.png) repeat-y right;
 	padding-right: 64px;
 }
 .nav-left{
-	background:url(images/formhome-left.png) repeat-y left;
+	background:url(http://a7la.pe.hu/Malek-blue-style-2015/images/formhome-left.png) repeat-y left;
 	padding-left: 64px;
 }
 .nav-bg{background: #f5f5f5;}
 
 .bottom-nav-td{
-	background:url(images/formhome-bottom-td.png) repeat-x;
+	background:url(http://a7la.pe.hu/Malek-blue-style-2015/images/formhome-bottom-td.png) repeat-x;
 	height: 79px;
 }
 .bottom-nav-right{
-	background:url(images/formhome-bottom-right.png) no-repeat;
+	background:url(http://a7la.pe.hu/Malek-blue-style-2015/images/formhome-bottom-right.png) no-repeat;
 	width: 361px;
 	height: 79px;
 	float: right;
 }
 .bottom-nav-left{
-	background:url(images/formhome-bottom-left.png) no-repeat;
+	background:url(http://a7la.pe.hu/Malek-blue-style-2015/images/formhome-bottom-left.png) no-repeat;
 	width: 306px;
 	height: 79px;
 	float: left;
@@ -1959,26 +1959,26 @@ box-shadow: 0px 0px 6px 2px rgba(166, 166, 166, 0.6);
 }
 
 .bg-banner{
-	background:url(images/bg-banner-1.png);
+	background:url(http://a7la.pe.hu/Malek-blue-style-2015/images/bg-banner-1.png);
 	height: 56px;
 	width: 426px;
 	float: right;
 }
 .sm-banner{
-	background:url(images/sm-banner-1.png);
+	background:url(http://a7la.pe.hu/Malek-blue-style-2015/images/sm-banner-1.png);
 	width: 288px;
 	height: 56px;
 	float:right;
 	margin-right: 15px;
 }
 .bg-banner2{
-	background: url(images/bg-banner-2.png);
+	background: url(http://a7la.pe.hu/Malek-blue-style-2015/images/bg-banner-2.png);
 	height: 56px;
 	width: 426px;
 	float: right;
 }
 .sm-banner2{
-	background: url(images/sm-banner-1-28.png);
+	background: url(http://a7la.pe.hu/Malek-blue-style-2015/images/sm-banner-1-28.png);
 	width: 288px;
 	height: 56px;
 	float:right;
@@ -1996,7 +1996,7 @@ display: block;
 }
 
 .malek-logo{
-	background:url(images/malek-logo.png);
+	background:url(http://a7la.pe.hu/Malek-blue-style-2015/images/malek-logo.png);
 	height: 58px;
 	position: relative;
 	width: 67px;
